@@ -1,0 +1,14 @@
+{
+  "name": "monmix",
+  "displayName": "monmix",
+  "expo": {
+    "name": "monmix",
+    "slug": "monmix",
+    "version": "2.0.0",
+    "assetBundlePatterns": ["**/*"]
+  },
+  "android": {
+    "googleServicesFile": "./android/app/google-services.json",
+    "useNextNotificationsApi": true
+  }
+}
