@@ -10,11 +10,11 @@ Main features include:
 <div align="center">
   <img src="./MoneyMix-W.png" />
 </div>
-
+<br/>
 <details>
   <summary>Google Play Submission</summary>
   
-  <div align="center">
+  <div align="center" height="500">
     <img src="./GooglePlay-MoneyMix.png" />
   </div>
 
