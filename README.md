@@ -11,6 +11,11 @@ Main features include:
   <img src="./MoneyMix-W.png" />
 </div>
 
+### Folders structure
+
+- `NodeJS-MoneyMix`: backend server for processing real-time data synchronization
+- `RN-MoneyMix`: mobile app for financial budgeting
+
 # Authors
 
 > **Artem Moshnin** - Head Full Stack Developer <br/>
