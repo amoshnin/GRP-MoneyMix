@@ -10,7 +10,6 @@ Main features include:
 <div align="center">
   <img src="./MoneyMix-W.png" />
 </div>
-<br/>
 
 # Authors
 
