@@ -16,7 +16,7 @@ Main features include:
   
   <br/>
   <div align="center">
-    <img src="./GooglePlay-MoneyMix.png" height="500" />
+    <img src="./GooglePlay-MoneyMix.png" height="800" />
   </div>
 
 </details>
