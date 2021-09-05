@@ -11,6 +11,16 @@ Main features include:
   <img src="./MoneyMix-W.png" />
 </div>
 
+<details>
+  <summary>Google Play Submission</summary>
+  
+  <div align="center">
+    <img src="./GooglePlay-MoneyMix.png" />
+  </div>
+
+</details>
+
+
 ### Folders structure
 
 - `NodeJS-MoneyMix`: backend server for processing real-time data synchronization
