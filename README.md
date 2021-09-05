@@ -21,7 +21,6 @@ Main features include:
 
 </details>
 
-
 ### Folders structure
 
 - `NodeJS-MoneyMix`: backend server for processing real-time data synchronization
