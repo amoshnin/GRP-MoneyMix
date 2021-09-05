@@ -14,8 +14,9 @@ Main features include:
 <details>
   <summary>Google Play Submission</summary>
   
-  <div align="center" width="200">
-    <img src="./GooglePlay-MoneyMix.png" />
+  <br/>
+  <div align="center">
+    <img src="./GooglePlay-MoneyMix.png" height="500" />
   </div>
 
 </details>
