@@ -4,8 +4,6 @@
 ## Overview
 
 It is built for iOS and Android using React Native using TypeScript programming language. <br/> **Redux** was used as the storage management library.
-Main features include:
-- [x] XXX
 
 <div align="center">
   <img src="./MoneyMix-W.png" />
